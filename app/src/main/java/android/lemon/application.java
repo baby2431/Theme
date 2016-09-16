@@ -2,7 +2,6 @@ package android.lemon;
 
 import android.lemon.config.BaseConfig;
 import android.lemon.utils.FileUtil;
-import android.provider.SyncStateContract;
 
 import cat.ereza.customactivityoncrash.CustomActivityOnCrash;
 
