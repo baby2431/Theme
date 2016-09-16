@@ -2,7 +2,7 @@
 <resources>
 	<color name="bbutton_edittext_border">#ccc</color>
 	<color name="bbutton_edittext_disabled">#ffe0e0e0</color>
-	
+	<color name="transparent">#00000000</color>
 	<color name="bbutton_primary">#ff428bca</color>
 	<color name="bbutton_primary_edge">#ff357ebd</color>
 	<color name="bbutton_primary_pressed">#ff3276b1</color>
